@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Start – Leiterspiel QV1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="wuerfeln">
+  <nav class="nav">
+    <a href="index.html">Übersicht</a>
+    <span class="nav-sep">/</span>
+    <a href="#">Start</a>
+  </nav>
+  <header class="hero">
+    <span class="hero-badge">🎲 Startfeld</span>
+    <h1>Willkommen</h1>
+    <p class="hero-impuls">«Wer bin ich heute als Lehrperson – und wo fing das an?»</p>
+  </header>
+  <main>
+    <div class="media-slot">
+      <div class="slot-icon">🎙</div>
+      <p><strong>Einführung ins Spiel</strong><br>
+      Hier kannst du eine Audiodatei aus Google Drive einbetten.</p>
+    </div>
+    <div class="thema">
+      <div class="thema-label">Was dich erwartet</div>
+      <h2>Eine Reise durch meine Lernbiografie</h2>
+      <p>Dieses Leiterspiel erzählt meine Entwicklung als Lehrperson an der Höheren Fachschule Sozialpädagogik. Jedes Feld steht für eine Etappe – mit Aufstiegen, Rückschlägen und Erkenntnissen. Leitern führen aufwärts, Rutschen zurück. Sonderfelder laden zum gemeinsamen Nachdenken ein.</p>
+    </div>
+    <div class="page-nav">
+      <a href="index.html">← Übersicht</a>
+      <a href="index.html" class="next">Zum Spielbrett →</a>
+    </div>
+  </main>
+</body>
+</html>
