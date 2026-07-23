@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leiter [NUMMER] – Leiterspiel QV1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="wuerfeln">
+  <nav class="nav">
+    <a href="index.html">Übersicht</a>
+    <span class="nav-sep">/</span>
+    <a href="#">Leiter [NUMMER]</a>
+  </nav>
+  <header class="hero">
+    <span class="hero-badge" style="background:#EAF7EE;color:#1A7A3C;">🪜 Leiter 3 · Aufwärts</span>
+    <h1>Leiter 3</h1>
+    <p class="hero-impuls">«[DEIN REFLEXIONSIMPULS ZU DIESEM AUFSTIEG]»</p>
+  </header>
+  <main>
+    <div class="media-slot">
+      <div class="slot-icon">🎙</div>
+      <p><strong>Meine Reflexion zu diesem Moment</strong><br>
+      Hier kannst du eine Audiodatei aus Google Drive einbetten.</p>
+    </div>
+    <div class="thema">
+      <div class="thema-label">Was hier passiert ist</div>
+      <h2>[TITEL DES ENTWICKLUNGSMOMENTS]</h2>
+      <p>[DEINE BESCHREIBUNG: Was war der Auslöser? Was hat sich verändert? Was hast du mitgenommen?]</p>
+    </div>
+    <div class="thema">
+      <div class="thema-label">Fachlicher Bezug</div>
+      <h2>[THEMA AUS DER THEORIE]</h2>
+      <p>[DEIN TEXT ZUM FACHLICHEN BEZUG]</p>
+      <div class="lit">[LITERATURANGABE NACH APA 7]</div>
+    </div>
+    <div class="page-nav">
+      <a href="index.html">← Übersicht</a>
+    </div>
+  </main>
+</body>
+</html>
