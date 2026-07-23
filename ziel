@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ziel – Leiterspiel QV1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="wuerfeln">
+  <nav class="nav">
+    <a href="index.html">Übersicht</a>
+    <span class="nav-sep">/</span>
+    <a href="#">Zielfeld</a>
+  </nav>
+  <header class="hero">
+    <span class="hero-badge">⭐ Zielfeld</span>
+    <h1>Ich als Lehrperson</h1>
+    <p class="hero-impuls">«Wer bin ich heute – und wohin will ich?»</p>
+  </header>
+  <main>
+    <div class="media-slot">
+      <div class="slot-icon">🎙</div>
+      <p><strong>Meine Vision als Lehrperson</strong><br>
+      Hier kannst du deine Audiodatei aus Google Drive einbetten.</p>
+    </div>
+    <div class="thema">
+      <div class="thema-label">Ankunft</div>
+      <h2>Das Ziel ist auch ein Anfang</h2>
+      <p>Wer dieses Feld erreicht, hat eine Lernbiografie durchgespielt – mit allen Leitern, Rutschen und Momenten des Innehaltens. Das Zielfeld ist kein Abschluss, sondern ein Ankommen im Jetzt: Wer bin ich heute als Lehrperson, und was nehme ich mit?</p>
+      <p style="margin-top:12px">Und wer möchte, darf die eigene Vision hier gleich teilen. 😉</p>
+    </div>
+    <div class="page-nav">
+      <a href="index.html">← Zurück zur Übersicht</a>
+    </div>
+  </main>
+</body>
+</html>
